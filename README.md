@@ -29,7 +29,7 @@
 ---
 
 # 📖 Project Overview
-
+![Fingerprint Security System](docs/fingerprint_system.jpeg)
 The **ATmega32 Fingerprint Security System** is an embedded access-control project developed using the **ATmega32 microcontroller**.
 
 The system uses an **R307 fingerprint sensor** to authenticate users. The fingerprint sensor communicates with the ATmega32 through **UART**, while an **I2C LCD** provides visual feedback to the user.
