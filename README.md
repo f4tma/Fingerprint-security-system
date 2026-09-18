@@ -301,7 +301,7 @@ I2C LCD
 ---
 
 # 💻 Software Architecture
-
+![software architecture](docs/software_architecture.jpg)
 The project follows a layered embedded-systems architecture.
 
 ```text
