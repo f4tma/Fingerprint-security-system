@@ -1,0 +1,18 @@
+# Build output
+Debug/
+Release/
+
+# AVR generated files
+*.o
+*.d
+*.elf
+*.map
+*.lss
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
