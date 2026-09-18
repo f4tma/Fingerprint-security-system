@@ -208,7 +208,7 @@ The general authentication process follows this sequence:
 ---
 
 # 🔌 Hardware Connections
-
+![Hardware connections](docs/pin_connections.png)
 ## R307 Fingerprint Sensor
 
 The R307 communicates with the ATmega32 using **UART**.
